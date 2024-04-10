@@ -1,4 +1,5 @@
-May Memo - Photo Filters Catalog
+**May Memo - Photo Filters Catalog**
+
 **SEA-Stage-2-Data-Catalog-Project**
 
 Welcome to the May Memo, Photo Filters Catalog! This is a one-stop-shop for exploring a range of fun and creative photo filters, developed as part of my Snap Engineering Academy's Stage 2 project assessment.
