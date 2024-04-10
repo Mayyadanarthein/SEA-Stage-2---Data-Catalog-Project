@@ -19,8 +19,11 @@ Snapchat has been one of my go-to apps for that. That experience inspired me to 
 
 I hope you enjoy exploring the Photo Filters Catalog and finding the perfect filters to elevate your visual storytelling.
 
-Technologies Used
+**Technologies Used **
+
 HTML
+
 CSS
+
 JavaScript
 
