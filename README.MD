@@ -4,6 +4,9 @@
 
 Welcome to the May Memo, Photo Filters Catalog! This is a one-stop-shop for exploring a range of fun and creative photo filters, developed as part of my Snap Engineering Academy's Stage 2 project assessment.
 
+To run the May Memo website, please use a desktop or laptop computer, using Chrome as a browser, for a better experience!
+https://maymemo.netlify.app
+
 **About the Filters**
 
 I hope this collection offers something for everyone, from classic black and white to vibrant, eye-catching effects. The user-friendly interface makes it easy to navigate and find the perfect filter for your needs.
