@@ -19,6 +19,10 @@ Snapchat has been one of my go-to apps for that. That experience inspired me to 
 
 I hope you enjoy exploring the Photo Filters Catalog and finding the perfect filters to elevate your visual storytelling.
 
+**Resources**
+https://www.bitmoji.com/stickers , for all the bitmojis here.
+The web home page pics and the color palettes are generated with the help of Microsoft Copilot AI Image Generator.
+
 **Technologies Used**
 
 HTML
